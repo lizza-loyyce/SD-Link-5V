@@ -1,0 +1,69 @@
+*******************************************************************************
+* *
+* ___   _       _____              _                                     *
+* |__ \ | |     |_   _|            | |                                    *
+* ) || |       | |  ___   ___  | |__                                   *
+* / / | |       | | / _ \ / __| | '_ \                                  *
+* / /_ | |____   | ||  __/| (__  | | | |                                 *
+* |____||______|  \_/ \___| \___| |_| |_|                                 *
+* *
+* EMBEDDED HARDWARE DESIGN LIBRARIES                         *
+* *
+*******************************************************************************
+
+PRODUCT: SD-Link 5V
+VERSION: 1.0
+VENDOR:  2L Tech Dynamics
+CONTACT: hello@2L-tech.site or victor.lucius.simon@gmail.com
+
+===============================================================================
+1. LICENSE GRANT
+===============================================================================
+2L Tech ("Licensor") hereby grants you ("Licensee") a non-exclusive, 
+worldwide, perpetual license to use, modify, and integrate the enclosed 
+hardware design files (the "Files") into your own projects and commercial 
+products under the following terms:
+
+   A. COMMERCIAL PRODUCTION: You MAY manufacture, market, and sell physical 
+      hardware products based on these Files. No royalty fees are due.
+   
+   B. MODIFICATION: You MAY modify the PCB layout, schematics, and mechanical 
+      designs to suit your specific application.
+
+===============================================================================
+2. RESTRICTIONS (WHAT YOU CANNOT DO)
+===============================================================================
+   A. NO REDISTRIBUTION OF FILES: You may NOT sell, lease, sublicense, or 
+      distribute the raw digital Files (KiCad projects, STEP files, Gerbers) 
+      in their original or modified form to any third party or marketplace.
+   
+   B. NO RE-BRANDING LIBRARIES: You may NOT remove the 2L Tech branding from 
+      the internal layers or documentation of the digital source files, 
+      although you may add your own branding to the physical hardware.
+
+===============================================================================
+3. NO WARRANTY & LIMITATION OF LIABILITY
+===============================================================================
+   THE FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED. THE LICENSOR DOES NOT GUARANTEE THAT THE DESIGN:
+   - WILL PASS EMI/EMC OR SAFETY CERTIFICATION.
+   - IS FREE FROM ERRORS OR "BUGS".
+   - IS SUITABLE FOR ANY SPECIFIC USE CASE.
+
+   IN NO EVENT SHALL 2L TECH DYNAMICS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING 
+   FROM, OUT OF, OR IN CONNECTION WITH THE HARDWARE DESIGN OR THE USE OR 
+   OTHER DEALINGS IN THE DESIGN. 
+
+   *** HARDWARE IS AT YOUR OWN RISK. ALWAYS VALIDATE ON THE BENCH. ***
+
+===============================================================================
+4. ATTRIBUTION
+===============================================================================
+   While not strictly required on the physical silkscreen of your final 
+   product, a mention of "Hardware design based on 2L Tech libraries" in 
+   your product manual is greatly appreciated.
+
+===============================================================================
+                    THANK YOU FOR SUPPORTING 2L TECH DYNAMICS
+===============================================================================
