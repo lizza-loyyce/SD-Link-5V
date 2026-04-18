@@ -6,6 +6,8 @@
 
 The **SD-Link 5V** is a robust, high-performance interface module designed to bridge 5V logic systems (such as Arduino Uno, Mega, or legacy industrial MCUs) with 3.3V MicroSD cards. Unlike standard "level-shifting" breakouts that use passive resistors, this board utilizes active buffering and dedicated power regulation to ensure high-speed data integrity.
 
+<img src="04_Images/5V MicroSD 1.png" alt="Screenshot" width="1000">
+
 ##  Key Features
 
 - **Active Level Shifting:** Uses high-speed logic buffers to translate SPI signals (MOSI, MISO, SCK, CS) without signal degradation.
@@ -15,6 +17,8 @@ The **SD-Link 5V** is a robust, high-performance interface module designed to br
   - Teardrop junctions for mechanical trace-to-pad reliability.
   - 2x M2 Plated Mounting Holes (GND connected).
   - Modern typography using **IBM Plex Sans** for clear silk labeling.
+ 
+<img src="04_Images/5V MicroSD 2.png" alt="Screenshot" width="1000">
 
 ##  Hardware Specifications
 
@@ -27,6 +31,8 @@ The **SD-Link 5V** is a robust, high-performance interface module designed to br
 | **Interface** | SPI (Mode 0) |
 | **Dimensions** | 40mm x 30mm |
 
+<img src="04_Images/5V MicroSD 3.png" alt="Screenshot" width="1000">
+
 ##  Pinout Diagram
 
 | Pin | Label | Function | Connection (Arduino Uno) |
@@ -38,11 +44,15 @@ The **SD-Link 5V** is a robust, high-performance interface module designed to br
 | 5 | **MISO** | Master In Slave Out | D12 |
 | 6 | **SCK** | Serial Clock | D13 |
 
+<img src="04_Images/5V MicroSD 4.png" alt="Screenshot" width="1000">
+
 ##  Project Structure
 
 - `/Hardware`: KiCad 10.0 project files (schematic, PCB layout).
 - `/Production`: Gerber files, Drill files, and Pick-and-Place (CPL) files.
 - `/Docs`: Validation reports and Integration Guide (PDF).
+
+<img src="04_Images/5V MicroSD 5.png" alt="Screenshot" width="1000">
 
 ##  Software Example
 
